@@ -1,3 +1,5 @@
+# COVID-19 Malaysia Data Analysis
+
 ## Project Overview
 This project analyzes COVID-19 cases in Malaysia using Python.
 It focuses on daily trends, cumulative cases, and monthly patterns, including interactive visualizations.
